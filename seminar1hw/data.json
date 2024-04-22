@@ -1,0 +1,2718 @@
+[
+  {
+    "fsq_id": "4d84e30c61676dcb26cc7ce4",
+    "categories": [
+      {
+        "id": 16032,
+        "name": "Park",
+        "short_name": "Park",
+        "plural_name": "Parks",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 4466,
+    "geocodes": {
+      "main": {
+        "latitude": 55.72501,
+        "longitude": 37.563232
+      },
+      "roof": {
+        "latitude": 55.72501,
+        "longitude": 37.563232
+      }
+    },
+    "link": "/v3/places/4d84e30c61676dcb26cc7ce4",
+    "location": {
+      "address": "\u0423\u0441\u0430\u0447\u0435\u0432\u0430, 29",
+      "country": "RU",
+      "cross_street": "",
+      "formatted_address": "\u0423\u0441\u0430\u0447\u0435\u0432\u0430, 29, \u041c\u043e\u0441\u043a\u0432\u0430",
+      "locality": "\u041c\u043e\u0441\u043a\u0432\u0430",
+      "region": "\u041c\u043e\u0441\u043a\u0432\u0430"
+    },
+    "name": "Park",
+    "related_places": {},
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "fsq_id": "597c9e948496ca0b432af7be",
+    "categories": [
+      {
+        "id": 17057,
+        "name": "Food and Beverage Retail",
+        "short_name": "Food & Beverage",
+        "plural_name": "Food and Beverage Retail",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/foodanddrink_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 3619,
+    "geocodes": {
+      "main": {
+        "latitude": 55.777959,
+        "longitude": 37.580068
+      }
+    },
+    "link": "/v3/places/597c9e948496ca0b432af7be",
+    "location": {
+      "address": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u041f\u0440., 1",
+      "country": "RU",
+      "cross_street": "",
+      "formatted_address": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u041f\u0440., 1, 125040, \u041c\u043e\u0441\u043a\u0432\u0430",
+      "locality": "\u041c\u043e\u0441\u043a\u0432\u0430",
+      "postcode": "125040",
+      "region": "\u041c\u043e\u0441\u043a\u0432\u0430"
+    },
+    "name": "PARK",
+    "related_places": {},
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "fsq_id": "4bc090ca920eb7132e14192c",
+    "categories": [
+      {
+        "id": 13065,
+        "name": "Restaurant",
+        "short_name": "Restaurant",
+        "plural_name": "Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 16032,
+        "name": "Park",
+        "short_name": "Park",
+        "plural_name": "Parks",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 19014,
+        "name": "Hotel",
+        "short_name": "Hotel",
+        "plural_name": "Hotels",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "VeryLikelyOpen",
+    "distance": 1934,
+    "geocodes": {
+      "main": {
+        "latitude": 55.735413,
+        "longitude": 37.6075
+      },
+      "roof": {
+        "latitude": 55.735413,
+        "longitude": 37.6075
+      }
+    },
+    "link": "/v3/places/4bc090ca920eb7132e14192c",
+    "location": {
+      "country": "RU",
+      "cross_street": "\u0443\u043b. \u041a\u0440\u044b\u043c\u0441\u043a\u0438\u0439 \u0412\u0430\u043b",
+      "formatted_address": "\u0443\u043b. \u041a\u0440\u044b\u043c\u0441\u043a\u0438\u0439 \u0412\u0430\u043b, 119049, \u041c\u043e\u0441\u043a\u0432\u0430",
+      "locality": "\u041c\u043e\u0441\u043a\u0432\u0430",
+      "postcode": "119049",
+      "region": "\u041c\u043e\u0441\u043a\u0432\u0430"
+    },
+    "name": "Muzeon Park (\u041f\u0430\u0440\u043a \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432 \u00ab\u041c\u0443\u0437\u0435\u043e\u043d\u00bb)",
+    "related_places": {
+      "children": [
+        {
+          "fsq_id": "57d18135498e691ec4937c22",
+          "categories": [
+            {
+              "id": 13035,
+              "name": "Coffee Shop",
+              "short_name": "Coffee Shop",
+              "plural_name": "Coffee Shops",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Cezve Coffee"
+        },
+        {
+          "fsq_id": "5725e043498ee9bee747a387",
+          "categories": [
+            {
+              "id": 13058,
+              "name": "Hot Dog Joint",
+              "short_name": "Hot Dogs",
+              "plural_name": "Hot Dog Joints",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/hotdog_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Smack Dog & Burger"
+        },
+        {
+          "fsq_id": "4fc78ad2e4b045e8f3ad89c6",
+          "categories": [
+            {
+              "id": 10004,
+              "name": "Art Gallery",
+              "short_name": "Art Gallery",
+              "plural_name": "Art Galleries",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0428\u043a\u043e\u043b\u0430"
+        },
+        {
+          "fsq_id": "519e3644498e8864b78f9ad2",
+          "categories": [
+            {
+              "id": 19002,
+              "name": "Bike Rental",
+              "short_name": "Bike",
+              "plural_name": "Bike Rentals",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bikeshop_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Electra \u041c\u0443\u0437\u0435\u043e\u043d"
+        },
+        {
+          "fsq_id": "4e9f36279adfb559cc0c52e2",
+          "categories": [
+            {
+              "id": 16037,
+              "name": "Playground",
+              "short_name": "Playground",
+              "plural_name": "Playgrounds",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0414\u0435\u0442\u0441\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430 \u0432 \u043f\u0430\u0440\u043a\u0435 \u041c\u0443\u0437\u0435\u043e\u043d"
+        },
+        {
+          "fsq_id": "52318e3011d2d7ba7d09766b",
+          "categories": [
+            {
+              "id": 16047,
+              "name": "Sculpture Garden",
+              "short_name": "Sculpture",
+              "plural_name": "Sculpture Gardens",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sculpture_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0421\u0430\u0434 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440"
+        },
+        {
+          "fsq_id": "4fef0f1ce4b078413ab29303",
+          "categories": [
+            {
+              "id": 17018,
+              "name": "Bookstore",
+              "short_name": "Bookstore",
+              "plural_name": "Bookstores",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0411\u0430\u043c\u043f\u0435\u0440"
+        },
+        {
+          "fsq_id": "4c8cae32f128199ca12631b1",
+          "categories": [
+            {
+              "id": 10028,
+              "name": "Art Museum",
+              "short_name": "Art Museum",
+              "plural_name": "Art Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_art_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041d\u043e\u0432\u0430\u044f \u0422\u0440\u0435\u0442\u044c\u044f\u043a\u043e\u0432\u043a\u0430"
+        },
+        {
+          "fsq_id": "5c851816c21cb1002c2326a7",
+          "categories": [
+            {
+              "id": 13235,
+              "name": "Israeli Restaurant",
+              "short_name": "Israeli",
+              "plural_name": "Israeli Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/falafel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Yasha"
+        },
+        {
+          "fsq_id": "5360c86711d2471dc61e2e96",
+          "categories": [
+            {
+              "id": 13034,
+              "name": "Caf\u00e9",
+              "short_name": "Caf\u00e9",
+              "plural_name": "Caf\u00e9s",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0428\u0430\u0440\u0434\u0430\u043c"
+        },
+        {
+          "fsq_id": "5d77b51172c409000834ea71",
+          "categories": [
+            {
+              "id": 16037,
+              "name": "Playground",
+              "short_name": "Playground",
+              "plural_name": "Playgrounds",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0412\u0435\u0440\u0435\u0432\u043e\u0447\u043d\u0430\u044f \u0434\u0435\u0442\u0441\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430"
+        },
+        {
+          "fsq_id": "5cdc0085fe3740002c0c0d0c",
+          "categories": [
+            {
+              "id": 13035,
+              "name": "Coffee Shop",
+              "short_name": "Coffee Shop",
+              "plural_name": "Coffee Shops",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Red Mango Muzeon"
+        },
+        {
+          "fsq_id": "5737664f498ec57a0d4e32ad",
+          "categories": [
+            {
+              "id": 16032,
+              "name": "Park",
+              "short_name": "Park",
+              "plural_name": "Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0428\u0430\u0440\u0430\u0434\u043d\u0430\u044f \u043b\u0430\u0432\u043a\u0430"
+        },
+        {
+          "fsq_id": "4e212c10091a49c13e11f6b3",
+          "categories": [
+            {
+              "id": 10004,
+              "name": "Art Gallery",
+              "short_name": "Art Gallery",
+              "plural_name": "Art Galleries",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0412\u0435\u0440\u043d\u0438\u0441\u0430\u0436 \u043d\u0430 \u041a\u0440\u044b\u043c\u0441\u043a\u043e\u043c \u0432\u0430\u043b\u0443"
+        }
+      ]
+    },
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "fsq_id": "4bdd5f27f219c9b6bb751210",
+    "categories": [
+      {
+        "id": 16032,
+        "name": "Park",
+        "short_name": "Park",
+        "plural_name": "Parks",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "VeryLikelyOpen",
+    "distance": 2947,
+    "geocodes": {
+      "main": {
+        "latitude": 55.727291,
+        "longitude": 37.599485
+      }
+    },
+    "link": "/v3/places/4bdd5f27f219c9b6bb751210",
+    "location": {
+      "address": "\u041a\u0440\u044b\u043c\u0441\u043a\u0438\u0439 \u0412\u0430\u043b \u0423\u043b., \u0434. 9",
+      "country": "RU",
+      "formatted_address": "\u041a\u0440\u044b\u043c\u0441\u043a\u0438\u0439 \u0412\u0430\u043b \u0423\u043b., \u0434. 9, 119049, \u041c\u043e\u0441\u043a\u0432\u0430",
+      "locality": "\u041c\u043e\u0441\u043a\u0432\u0430",
+      "postcode": "119049",
+      "region": "\u041c\u043e\u0441\u043a\u0432\u0430"
+    },
+    "name": "Gorky Park (\u0426\u041f\u041a\u0438\u041e \u0438\u043c. \u0413\u043e\u0440\u044c\u043a\u043e\u0433\u043e)",
+    "related_places": {
+      "children": [
+        {
+          "fsq_id": "4fa52778e4b0a34ac754bdda",
+          "categories": [
+            {
+              "id": 16004,
+              "name": "Bike Trail",
+              "short_name": "Bike Trail",
+              "plural_name": "Bike Trails",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0412\u0435\u043b\u043e\u0434\u043e\u0440\u043e\u0436\u043a\u0430"
+        },
+        {
+          "fsq_id": "51af2897498ea4cb1e8117bf",
+          "categories": [
+            {
+              "id": 19002,
+              "name": "Bike Rental",
+              "short_name": "Bike",
+              "plural_name": "Bike Rentals",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bikeshop_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0440\u043e\u043a\u0430\u0442 \u0432\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434\u043e\u0432 \u0438 \u0440\u043e\u043b\u0438\u043a\u043e\u0432 / Rent a bike"
+        },
+        {
+          "fsq_id": "500a31f5e4b02a36e9b971a7",
+          "categories": [
+            {
+              "id": 10048,
+              "name": "Roller Rink",
+              "short_name": "Roller Rink",
+              "plural_name": "Roller Rinks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Roller School"
+        },
+        {
+          "fsq_id": "50014c60e4b0d51a40d23d0f",
+          "categories": [
+            {
+              "id": 13035,
+              "name": "Coffee Shop",
+              "short_name": "Coffee Shop",
+              "plural_name": "Coffee Shops",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13065,
+              "name": "Restaurant",
+              "short_name": "Restaurant",
+              "plural_name": "Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Coffee and the City"
+        },
+        {
+          "fsq_id": "5919f8436f706a51e2ae3521",
+          "categories": [
+            {
+              "id": 13026,
+              "name": "BBQ Joint",
+              "short_name": "BBQ",
+              "plural_name": "BBQ Joints",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0416\u0430\u0440\u043e\u0432\u043d\u044f"
+        },
+        {
+          "fsq_id": "58ea68f416f0000d97df1799",
+          "categories": [
+            {
+              "id": 13374,
+              "name": "Ukrainian Restaurant",
+              "short_name": "Ukrainian",
+              "plural_name": "Ukrainian Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0422\u0435\u0442\u044f \u041c\u043e\u0442\u044f"
+        },
+        {
+          "fsq_id": "532b3d61498e9908ae3aa711",
+          "categories": [
+            {
+              "id": 11026,
+              "name": "Daycare",
+              "short_name": "Daycare",
+              "plural_name": "Daycares",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/daycare_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 12009,
+              "name": "Education",
+              "short_name": "Education",
+              "plural_name": "Education",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Mamas' Place"
+        },
+        {
+          "fsq_id": "523fbdc2498e5496fb90686a",
+          "categories": [
+            {
+              "id": 19005,
+              "name": "Cruise",
+              "short_name": "Cruise",
+              "plural_name": "Cruises",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/boat_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Flotilla Radisson Royal GorkyPark"
+        },
+        {
+          "fsq_id": "4df497578130cf14cc16bc78",
+          "categories": [
+            {
+              "id": 18055,
+              "name": "Skate Park",
+              "short_name": "Skate Park",
+              "plural_name": "Skate Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/skate_park_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "PUMA \u0441\u043a\u0435\u0439\u0442-\u043f\u0430\u0440\u043a"
+        },
+        {
+          "fsq_id": "4fa50d2ee4b0862c74b090d1",
+          "categories": [
+            {
+              "id": 19020,
+              "name": "Parking",
+              "short_name": "Parking",
+              "plural_name": "Parking",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/parking_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0430\u0440\u043a\u043e\u0432\u043a\u0430 \u0443 \u043f\u0430\u0440\u043a\u0430 \u0438\u043c. \u0413\u043e\u0440\u044c\u043a\u043e\u0433\u043e"
+        },
+        {
+          "fsq_id": "4ff5de78e4b024f559624532",
+          "categories": [
+            {
+              "id": 16016,
+              "name": "Fountain",
+              "short_name": "Fountain",
+              "plural_name": "Fountains",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0424\u043e\u043d\u0442\u0430\u043d \u0414\u0435\u0432\u0443\u0448\u043a\u0430 \u0441 \u041a\u0443\u0432\u0448\u0438\u043d\u043e\u043c"
+        },
+        {
+          "fsq_id": "504f59dce4b0eb5d2017e295",
+          "categories": [
+            {
+              "id": 18008,
+              "name": "Basketball Court",
+              "short_name": "Basketball Court",
+              "plural_name": "Basketball Courts",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/basketballcourt_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0411\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u044c\u043d\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430"
+        },
+        {
+          "fsq_id": "4e665fbbd4c06542ac9e6783",
+          "categories": [
+            {
+              "id": 18025,
+              "name": "Dance Studio",
+              "short_name": "Dance Studio",
+              "plural_name": "Dance Studios",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_dancestudio_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0422\u0430\u043d\u0446\u0435\u0432\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430"
+        },
+        {
+          "fsq_id": "5f1f11be650cf802025f9214",
+          "categories": [
+            {
+              "id": 13054,
+              "name": "Food Truck",
+              "short_name": "Food Truck",
+              "plural_name": "Food Trucks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/streetfood_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0420\u0435\u0441\u0442\u043e\u043f\u0430\u0440\u043a\u0438\u043d\u0433"
+        },
+        {
+          "fsq_id": "4fa51ca8e4b08e1f8890754a",
+          "categories": [
+            {
+              "id": 19003,
+              "name": "Boat Rental",
+              "short_name": "Boat Rental",
+              "plural_name": "Boat Rentals",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/boat_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041a\u0430\u0442\u0430\u043c\u0430\u0440\u0430\u043d\u044b"
+        },
+        {
+          "fsq_id": "4fd0dfa6e4b0b6378095108e",
+          "categories": [
+            {
+              "id": 13034,
+              "name": "Caf\u00e9",
+              "short_name": "Caf\u00e9",
+              "plural_name": "Caf\u00e9s",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13145,
+              "name": "Fast Food Restaurant",
+              "short_name": "Fast Food",
+              "plural_name": "Fast Food Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13236,
+              "name": "Italian Restaurant",
+              "short_name": "Italian",
+              "plural_name": "Italian Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041c\u0435\u0440\u043a\u0430\u0442\u043e"
+        },
+        {
+          "fsq_id": "53709dd7498e82d6f248e748",
+          "categories": [
+            {
+              "id": 16003,
+              "name": "Beach",
+              "short_name": "Beach",
+              "plural_name": "Beaches",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/beach_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u043b\u044f\u0436"
+        },
+        {
+          "fsq_id": "4be408b1d4f7c9b6958f2320",
+          "categories": [
+            {
+              "id": 13352,
+              "name": "Thai Restaurant",
+              "short_name": "Thai",
+              "plural_name": "Thai Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/thai_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041b\u0435\u0431\u0435\u0434\u0438\u043d\u043e\u0435 \u043e\u0437\u0435\u0440\u043e"
+        },
+        {
+          "fsq_id": "4fda3c2be4b03cbadd76a822",
+          "categories": [
+            {
+              "id": 13034,
+              "name": "Caf\u00e9",
+              "short_name": "Caf\u00e9",
+              "plural_name": "Caf\u00e9s",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041e\u0441\u0442\u0440\u043e\u0432\u043e\u043a"
+        },
+        {
+          "fsq_id": "4e591faad4c0ba8c11994a67",
+          "categories": [
+            {
+              "id": 16016,
+              "name": "Fountain",
+              "short_name": "Fountain",
+              "plural_name": "Fountains",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0424\u043e\u043d\u0442\u0430\u043d \u00ab\u0420\u043e\u0437\u0430\u0440\u0438\u0439\u00bb"
+        },
+        {
+          "fsq_id": "4bee7b86d1b7d13aae13cdec",
+          "categories": [
+            {
+              "id": 16006,
+              "name": "Bridge",
+              "short_name": "Bridge",
+              "plural_name": "Bridges",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/bridge_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0443\u0448\u043a\u0438\u043d\u0441\u043a\u0438\u0439 \u043c\u043e\u0441\u0442"
+        },
+        {
+          "fsq_id": "50014e6ee4b0ae2f16f5f4e7",
+          "categories": [
+            {
+              "id": 19024,
+              "name": "Rest Area",
+              "short_name": "Rest Areas",
+              "plural_name": "Rest Areas",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/restarea_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 16030,
+              "name": "Other Great Outdoors",
+              "short_name": "Other Outdoors",
+              "plural_name": "Other Great Outdoors",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/outdoors_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041b\u0435\u0436\u0430\u043a\u0438"
+        },
+        {
+          "fsq_id": "5753fa7038fad91fb2388b7b",
+          "categories": [
+            {
+              "id": 13379,
+              "name": "Vietnamese Restaurant",
+              "short_name": "Vietnamese",
+              "plural_name": "Vietnamese Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vietnamese_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "B\u00f4"
+        },
+        {
+          "fsq_id": "4fe32f68e4b0391ded62fc38",
+          "categories": [
+            {
+              "id": 16023,
+              "name": "Lake",
+              "short_name": "Lake",
+              "plural_name": "Lakes",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0438\u043e\u043d\u0435\u0440\u0441\u043a\u0438\u0439 \u043f\u0440\u0443\u0434"
+        },
+        {
+          "fsq_id": "4fe3382ee4b0c9b7f5643dc2",
+          "categories": [
+            {
+              "id": 16053,
+              "name": "Waterfront",
+              "short_name": "Waterfront",
+              "plural_name": "Waterfronts",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/river_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0414\u0435\u0440\u0435\u0432\u044f\u043d\u043d\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f"
+        },
+        {
+          "fsq_id": "4d624fdb29105941fffc0847",
+          "categories": [
+            {
+              "id": 10028,
+              "name": "Art Museum",
+              "short_name": "Art Museum",
+              "plural_name": "Art Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_art_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0413\u0430\u0440\u0430\u0436 / Garage Museum of Contemporary Art"
+        },
+        {
+          "fsq_id": "51b96f3a498e6960fcb6c40b",
+          "categories": [
+            {
+              "id": 13145,
+              "name": "Fast Food Restaurant",
+              "short_name": "Fast Food",
+              "plural_name": "Fast Food Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "8 Oz"
+        },
+        {
+          "fsq_id": "4e7628b81495be5171710875",
+          "categories": [
+            {
+              "id": 10026,
+              "name": "Indie Movie Theater",
+              "short_name": "Indie Movies",
+              "plural_name": "Indie Movie Theaters",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0438\u043e\u043d\u0435\u0440"
+        },
+        {
+          "fsq_id": "4ff014a6e4b0eddc4af3d7e4",
+          "categories": [
+            {
+              "id": 16037,
+              "name": "Playground",
+              "short_name": "Playground",
+              "plural_name": "Playgrounds",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0414\u0435\u0442\u0441\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430"
+        },
+        {
+          "fsq_id": "5f24642ed0112a7dc91a5be3",
+          "categories": [
+            {
+              "id": 13236,
+              "name": "Italian Restaurant",
+              "short_name": "Italian",
+              "plural_name": "Italian Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0421\u044b\u0440\u043e\u0432\u0430\u0440\u043d\u044f"
+        },
+        {
+          "fsq_id": "5cc957ba6e4650002c683449",
+          "categories": [
+            {
+              "id": 13236,
+              "name": "Italian Restaurant",
+              "short_name": "Italian",
+              "plural_name": "Italian Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "#\u041a\u043e\u043f\u0438\u041f\u0430\u0441\u0442\u0430"
+        },
+        {
+          "fsq_id": "5ad21aa9535d6f5714b5f5a4",
+          "categories": [
+            {
+              "id": 13379,
+              "name": "Vietnamese Restaurant",
+              "short_name": "Vietnamese",
+              "plural_name": "Vietnamese Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vietnamese_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "B\u1ed5"
+        },
+        {
+          "fsq_id": "62ea26cb30344f43c64ec801",
+          "categories": [
+            {
+              "id": 13098,
+              "name": "Caucasian Restaurant",
+              "short_name": "Caucasian",
+              "plural_name": "Caucasian Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/caucasian_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0427\u0435? \u0425\u0430\u0440\u0447\u043e!"
+        },
+        {
+          "fsq_id": "506486b1e4b0a3464dfead2c",
+          "categories": [
+            {
+              "id": 12081,
+              "name": "Observatory",
+              "short_name": "Observatory",
+              "plural_name": "Observatories",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_planetarium_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041e\u0431\u0441\u0435\u0440\u0432\u0430\u0442\u043e\u0440\u0438\u044f \u043f\u0430\u0440\u043a\u0430 \u0438\u043c. \u0413\u043e\u0440\u044c\u043a\u043e\u0433\u043e"
+        },
+        {
+          "fsq_id": "519b54f1498e4c8a2905bfad",
+          "categories": [
+            {
+              "id": 13059,
+              "name": "Juice Bar",
+              "short_name": "Juice Bar",
+              "plural_name": "Juice Bars",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/juicebar_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0424\u0440\u0435\u0448"
+        },
+        {
+          "fsq_id": "4fe59d63e4b05b60f9e92064",
+          "categories": [
+            {
+              "id": 16019,
+              "name": "Hiking Trail",
+              "short_name": "Trail",
+              "plural_name": "Hiking Trails",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0410\u043b\u043b\u0435\u044f \u043f\u0430\u043c\u044f\u0442\u0438"
+        },
+        {
+          "fsq_id": "5d6900ffb410ec0008aba2c5",
+          "categories": [
+            {
+              "id": 10003,
+              "name": "Arcade",
+              "short_name": "Arcade",
+              "plural_name": "Arcades",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/arcade_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Galaxy Studio"
+        },
+        {
+          "fsq_id": "4f9abd03e4b0de6266a6bc33",
+          "categories": [
+            {
+              "id": 16023,
+              "name": "Lake",
+              "short_name": "Lake",
+              "plural_name": "Lakes",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0413\u043e\u043b\u0438\u0446\u044b\u043d\u0441\u043a\u0438\u0435 \u043f\u0440\u0443\u0434\u044b"
+        },
+        {
+          "fsq_id": "4e36f254d22d86185a7b93da",
+          "categories": [
+            {
+              "id": 16016,
+              "name": "Fountain",
+              "short_name": "Fountain",
+              "plural_name": "Fountains",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0422\u0430\u043d\u0446\u0443\u044e\u0449\u0438\u0439 \u0444\u043e\u043d\u0442\u0430\u043d"
+        },
+        {
+          "fsq_id": "5f3cecb705a11540d61d7259",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u041c. \u0413\u043e\u0440\u044c\u043a\u043e\u043c\u0443"
+        },
+        {
+          "fsq_id": "4e63649818a8ce02fd41a9ac",
+          "categories": [
+            {
+              "id": 13315,
+              "name": "Noodle Restaurant",
+              "short_name": "Noodles",
+              "plural_name": "Noodle Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/ramen_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0412\u043e\u043a\u043a\u0435\u0440"
+        },
+        {
+          "fsq_id": "5ef238bd4595790008fc4e60",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041c\u043e\u0437\u0430\u0438\u0447\u043d\u044b\u0439 \u0432\u0430\u0437\u043e\u043d"
+        },
+        {
+          "fsq_id": "4fbfa684e4b05f3e82c63948",
+          "categories": [
+            {
+              "id": 10000,
+              "name": "Arts and Entertainment",
+              "short_name": "Arts & Entertainment",
+              "plural_name": "Arts and Entertainment",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0417\u0435\u043b\u0435\u043d\u0430\u044f \u0448\u043a\u043e\u043b\u0430"
+        },
+        {
+          "fsq_id": "4fae808be4b0efef5eae0eea",
+          "categories": [
+            {
+              "id": 19021,
+              "name": "Pier",
+              "short_name": "Piers",
+              "plural_name": "Piers",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/ferry_pier_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0426\u041f\u041a\u0438\u041e \u0438\u043c. \u0413\u043e\u0440\u044c\u043a\u043e\u0433\u043e"
+        },
+        {
+          "fsq_id": "4fda5651e4b020c514bfbad3",
+          "categories": [
+            {
+              "id": 16019,
+              "name": "Hiking Trail",
+              "short_name": "Trail",
+              "plural_name": "Hiking Trails",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041c\u0438\u043b\u044f \u041c\u0438\u0440\u0430 \u0428\u0440\u0438 \u0427\u0438\u043d\u043c\u043e\u044f"
+        },
+        {
+          "fsq_id": "4e638f85c65b2dc8a0193d5d",
+          "categories": [
+            {
+              "id": 16037,
+              "name": "Playground",
+              "short_name": "Playground",
+              "plural_name": "Playgrounds",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430"
+        },
+        {
+          "fsq_id": "4fbf4794e4b01d88cdab79d5",
+          "categories": [
+            {
+              "id": 19002,
+              "name": "Bike Rental",
+              "short_name": "Bike",
+              "plural_name": "Bike Rentals",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bikeshop_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Bosco \u043f\u0440\u043e\u043a\u0430\u0442 \u0432\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434\u043e\u0432"
+        },
+        {
+          "fsq_id": "4bf913575efe2d7fe3ab6b34",
+          "categories": [
+            {
+              "id": 10043,
+              "name": "Theater",
+              "short_name": "Theater",
+              "plural_name": "Theaters",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0422\u0435\u0430\u0442\u0440 \u0421\u0442\u0430\u0441\u0430 \u041d\u0430\u043c\u0438\u043d\u0430 / \u0417\u0435\u043b\u0435\u043d\u044b\u0439 \u0442\u0435\u0430\u0442\u0440"
+        },
+        {
+          "fsq_id": "4f4d2b53e4b082dc5b6aaeff",
+          "categories": [
+            {
+              "id": 11124,
+              "name": "Office",
+              "short_name": "Office",
+              "plural_name": "Offices",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0414\u0438\u0440\u0435\u043a\u0446\u0438\u044f \u041f\u0430\u0440\u043a\u0430 \u0413\u043e\u0440\u044c\u043a\u043e\u0433\u043e"
+        },
+        {
+          "fsq_id": "5d728c8c9657ce000817013a",
+          "categories": [
+            {
+              "id": 16017,
+              "name": "Garden",
+              "short_name": "Garden",
+              "plural_name": "Gardens",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0420\u0430\u0439\u0441\u043a\u0438\u0439 \u0421\u0430\u0434"
+        },
+        {
+          "fsq_id": "50280647e4b030d4ed631aaf",
+          "categories": [
+            {
+              "id": 16037,
+              "name": "Playground",
+              "short_name": "Playground",
+              "plural_name": "Playgrounds",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041a\u0430\u0447\u0435\u043b\u044c\u043a\u0438"
+        },
+        {
+          "fsq_id": "55239a64498e38c39d94909c",
+          "categories": [
+            {
+              "id": 16046,
+              "name": "Scenic Lookout",
+              "short_name": "Scenic Lookout",
+              "plural_name": "Scenic Lookouts",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0421\u043c\u043e\u0442\u0440\u043e\u0432\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430 \u0426\u041f\u041a\u0438\u041e \u0438\u043c. \u0413\u043e\u0440\u044c\u043a\u043e\u0433\u043e"
+        },
+        {
+          "fsq_id": "5b7e95f3f05ca8003aca92b7",
+          "categories": [
+            {
+              "id": 16037,
+              "name": "Playground",
+              "short_name": "Playground",
+              "plural_name": "Playgrounds",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0421\u0430\u043b\u044e\u0442"
+        },
+        {
+          "fsq_id": "55239a03498e29c99500e188",
+          "categories": [
+            {
+              "id": 10030,
+              "name": "History Museum",
+              "short_name": "History Museum",
+              "plural_name": "History Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_history_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041c\u0443\u0437\u0435\u0439 \u041f\u0430\u0440\u043a\u0430 \u0413\u043e\u0440\u044c\u043a\u043e\u0433\u043e"
+        },
+        {
+          "fsq_id": "51f35769498ea8c228c3cf3d",
+          "categories": [
+            {
+              "id": 13034,
+              "name": "Caf\u00e9",
+              "short_name": "Caf\u00e9",
+              "plural_name": "Caf\u00e9s",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13145,
+              "name": "Fast Food Restaurant",
+              "short_name": "Fast Food",
+              "plural_name": "Fast Food Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13346,
+              "name": "Paella Restaurant",
+              "short_name": "Paella",
+              "plural_name": "Paella Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/paella_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Paella House"
+        },
+        {
+          "fsq_id": "60f5e012fed98d359235b89f",
+          "categories": [
+            {
+              "id": 13006,
+              "name": "Beer Bar",
+              "short_name": "Beer Bar",
+              "plural_name": "Beer Bars",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Right Hops | Park Gorkogo"
+        },
+        {
+          "fsq_id": "520b87e611d2800af54ed3d8",
+          "categories": [
+            {
+              "id": 16017,
+              "name": "Garden",
+              "short_name": "Garden",
+              "plural_name": "Gardens",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0420\u043e\u0437\u0430\u0440\u0438\u0439"
+        }
+      ]
+    },
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "fsq_id": "4beebbe7e8c3c928eb079992",
+    "categories": [
+      {
+        "id": 16032,
+        "name": "Park",
+        "short_name": "Park",
+        "plural_name": "Parks",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "VeryLikelyOpen",
+    "distance": 4700,
+    "geocodes": {
+      "main": {
+        "latitude": 55.726007,
+        "longitude": 37.556585
+      },
+      "roof": {
+        "latitude": 55.726007,
+        "longitude": 37.556585
+      }
+    },
+    "link": "/v3/places/4beebbe7e8c3c928eb079992",
+    "location": {
+      "address": "\u041d\u043e\u0432\u043e\u0434\u0435\u0432\u0438\u0447\u0438\u0439 \u041f\u0440., 1",
+      "country": "RU",
+      "formatted_address": "\u041d\u043e\u0432\u043e\u0434\u0435\u0432\u0438\u0447\u0438\u0439 \u041f\u0440., 1, \u041c\u043e\u0441\u043a\u0432\u0430",
+      "locality": "\u041c\u043e\u0441\u043a\u0432\u0430",
+      "region": "\u041c\u043e\u0441\u043a\u0432\u0430"
+    },
+    "name": "Novodevichy Park (\u041f\u0430\u0440\u043a \u00ab\u041d\u043e\u0432\u043e\u0434\u0435\u0432\u0438\u0447\u044c\u0438 \u043f\u0440\u0443\u0434\u044b\u00bb)",
+    "related_places": {
+      "children": [
+        {
+          "fsq_id": "4f64a5cce4b041039dd6b947",
+          "categories": [
+            {
+              "id": 10047,
+              "name": "Public Art",
+              "short_name": "Public Art",
+              "plural_name": "Public Art",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0414\u043e\u0440\u043e\u0433\u0443 \u0443\u0442\u044f\u0442\u0430\u043c!"
+        },
+        {
+          "fsq_id": "5517ccd7498eeca2fd37eb5c",
+          "categories": [
+            {
+              "id": 16023,
+              "name": "Lake",
+              "short_name": "Lake",
+              "plural_name": "Lakes",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u041d\u043e\u0432\u043e\u0434\u0435\u0432\u0438\u0447\u0438\u0439 \u043f\u0440\u0443\u0434"
+        }
+      ]
+    },
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "fsq_id": "4bdc9716afe8c9b689235085",
+    "categories": [
+      {
+        "id": 16032,
+        "name": "Park",
+        "short_name": "Park",
+        "plural_name": "Parks",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "VeryLikelyOpen",
+    "distance": 7208,
+    "geocodes": {
+      "main": {
+        "latitude": 55.731222,
+        "longitude": 37.506532
+      }
+    },
+    "link": "/v3/places/4bdc9716afe8c9b689235085",
+    "location": {
+      "country": "RU",
+      "formatted_address": "121108, \u041c\u043e\u0441\u043a\u0432\u0430",
+      "locality": "\u041c\u043e\u0441\u043a\u0432\u0430",
+      "postcode": "121108",
+      "region": "\u041c\u043e\u0441\u043a\u0432\u0430"
+    },
+    "name": "Victory Park (\u041f\u0430\u0440\u043a \u041f\u043e\u0431\u0435\u0434\u044b (\u041f\u043e\u043a\u043b\u043e\u043d\u043d\u0430\u044f \u0433\u043e\u0440\u0430))",
+    "related_places": {
+      "children": [
+        {
+          "fsq_id": "4e5b3d17b0fbdca30a150758",
+          "categories": [
+            {
+              "id": 16019,
+              "name": "Hiking Trail",
+              "short_name": "Trail",
+              "plural_name": "Hiking Trails",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0410\u043b\u043b\u0435\u044f c\u043e\u043b\u0434\u0430\u0442"
+        },
+        {
+          "fsq_id": "4f9c16d4e4b07e720d6c023c",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u0412\u043e\u0438\u043d\u0430\u043c \u0418\u043d\u0442\u0435\u0440\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0438\u0441\u0442\u0430\u043c"
+        },
+        {
+          "fsq_id": "5d01306accad6b003773ac73",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041c\u043e\u043d\u0443\u043c\u0435\u043d\u0442 \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u043e\u0432 \u043b\u0438\u043a\u0432\u0438\u0434\u0430\u0446\u0438\u0438\u0438 \u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0439 \u043a\u0430\u0442\u0430\u0441\u0442\u0440\u043e\u0444\u044b \u043d\u0430 \u0427\u0435\u0440\u043d\u043e\u0431\u044b\u043b\u044c\u0441\u043a\u043e\u0439 \u0410\u042d\u0421"
+        },
+        {
+          "fsq_id": "518611eb498e6f602630a53d",
+          "categories": [
+            {
+              "id": 16019,
+              "name": "Hiking Trail",
+              "short_name": "Trail",
+              "plural_name": "Hiking Trails",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0410\u043b\u043b\u0435\u044f \u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a\u043e\u0432 \u041c\u043e\u0441\u043a\u0432\u044b"
+        },
+        {
+          "fsq_id": "53db501d498ed1054478a19f",
+          "categories": [
+            {
+              "id": 16025,
+              "name": "Memorial Site",
+              "short_name": "Memorial Site",
+              "plural_name": "Memorial Sites",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u0433\u0435\u0440\u043e\u044f\u043c \u041f\u0435\u0440\u0432\u043e\u0439 \u043c\u0438\u0440\u043e\u0432\u043e\u0439 \u0432\u043e\u0439\u043d\u044b"
+        },
+        {
+          "fsq_id": "62e67205ba714e4a8031655a",
+          "categories": [
+            {
+              "id": 16019,
+              "name": "Hiking Trail",
+              "short_name": "Trail",
+              "plural_name": "Hiking Trails",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0410\u043b\u043b\u0435\u044f \u041f\u0430\u043c\u044f\u0442\u0438"
+        },
+        {
+          "fsq_id": "518611b2498eda329c3936a7",
+          "categories": [
+            {
+              "id": 16019,
+              "name": "Hiking Trail",
+              "short_name": "Trail",
+              "plural_name": "Hiking Trails",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0410\u043b\u043b\u0435\u044f \u0432\u043e\u0435\u043d\u043d\u044b\u0445 \u0436\u0443\u0440\u043d\u0430\u043b\u0438\u0441\u0442\u043e\u0432"
+        },
+        {
+          "fsq_id": "4cb7f10043ec6dcb83889131",
+          "categories": [
+            {
+              "id": 12110,
+              "name": "Synagogue",
+              "short_name": "Synagogue",
+              "plural_name": "Synagogues",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_synagogue_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041c\u0435\u043c\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0438\u043d\u0430\u0433\u043e\u0433\u0430"
+        },
+        {
+          "fsq_id": "4e271f68b0fb1fae1ddaa68a",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0412\u0435\u0447\u043d\u044b\u0439 \u043e\u0433\u043e\u043d\u044c"
+        },
+        {
+          "fsq_id": "53762bec498e82eeb4bf5ac7",
+          "categories": [
+            {
+              "id": 16016,
+              "name": "Fountain",
+              "short_name": "Fountain",
+              "plural_name": "Fountains",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0424\u043e\u043d\u0442\u0430\u043d\u044b"
+        },
+        {
+          "fsq_id": "5352644111d2d90e84c56ea8",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0440\u043e\u043f\u0430\u0432\u0448\u0438\u043c \u0431\u0435\u0437 \u0432\u0435\u0441\u0442\u0438 \u0441\u043e\u043b\u0434\u0430\u0442\u0430\u043c \u0431\u0435\u0437 \u043c\u043e\u0433\u0438\u043b"
+        },
+        {
+          "fsq_id": "500141c7e4b077654e838472",
+          "categories": [
+            {
+              "id": 16019,
+              "name": "Hiking Trail",
+              "short_name": "Trail",
+              "plural_name": "Hiking Trails",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0410\u043b\u043b\u0435\u044f \u0430\u0440\u0442\u0438\u043b\u043b\u0435\u0440\u0438\u0441\u0442\u043e\u0432"
+        },
+        {
+          "fsq_id": "4f96f193e4b00557e664447d",
+          "categories": [
+            {
+              "id": 10030,
+              "name": "History Museum",
+              "short_name": "History Museum",
+              "plural_name": "History Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_history_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043c\u0443\u0437\u0435\u0439 \u0412\u0435\u043b\u0438\u043a\u043e\u0439 \u041e\u0442\u0435\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u0432\u043e\u0439\u043d\u044b 1941-1945 \u0433\u0433"
+        },
+        {
+          "fsq_id": "51d3fbbc498e004f9f2d2003",
+          "categories": [
+            {
+              "id": 16019,
+              "name": "Hiking Trail",
+              "short_name": "Trail",
+              "plural_name": "Hiking Trails",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0410\u043b\u043b\u0435\u044f \u044e\u043d\u044b\u0445 \u0433\u0435\u0440\u043e\u0435\u0432"
+        },
+        {
+          "fsq_id": "605f59743941bb484bc85840",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u043e \u0434\u043e\u0440\u043e\u0433\u0430\u043c \u0432\u043e\u0439\u043d\u044b"
+        },
+        {
+          "fsq_id": "53988b55498e605822cc986d",
+          "categories": [
+            {
+              "id": 13034,
+              "name": "Caf\u00e9",
+              "short_name": "Caf\u00e9",
+              "plural_name": "Caf\u00e9s",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041b\u0435\u0442\u043d\u0435\u0435 \u041a\u0430\u0444\u0435 \u043d\u0430 \u041f\u043e\u043a\u043b\u043e\u043d\u043d\u043e\u0439 \u0413\u043e\u0440\u0435"
+        },
+        {
+          "fsq_id": "4fddbf24e4b056ef391093e0",
+          "categories": [
+            {
+              "id": 12105,
+              "name": "Monastery",
+              "short_name": "Monastery",
+              "plural_name": "Monasteries",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 12111,
+              "name": "Temple",
+              "short_name": "Temple",
+              "plural_name": "Temples",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_temple_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0425\u0440\u0430\u043c \u0412\u0435\u043b\u0438\u043a\u043e\u043c\u0443\u0447\u0435\u043d\u0438\u043a\u0430 \u0413\u0435\u043e\u0440\u0433\u0438\u044f \u041f\u043e\u0431\u0435\u0434\u043e\u043d\u043e\u0441\u0446\u0430 \u043d\u0430 \u041f\u043e\u043a\u043b\u043e\u043d\u043d\u043e\u0439 \u0413\u043e\u0440\u0435"
+        },
+        {
+          "fsq_id": "62e673f3876c9054e1dd43db",
+          "categories": [
+            {
+              "id": 16019,
+              "name": "Hiking Trail",
+              "short_name": "Trail",
+              "plural_name": "Hiking Trails",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0410\u043b\u043b\u0435\u044f \u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d"
+        },
+        {
+          "fsq_id": "5e13953bbeecb00007283804",
+          "categories": [
+            {
+              "id": 16019,
+              "name": "Hiking Trail",
+              "short_name": "Trail",
+              "plural_name": "Hiking Trails",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0410\u043b\u043b\u0435\u044f \u041c\u0438\u0440\u0430"
+        },
+        {
+          "fsq_id": "4dcf6550e4cd130e16808516",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u0441\u0442\u0440\u0430\u043d\u0430\u043c-\u0443\u0447\u0430\u0441\u0442\u043d\u0438\u0446\u0430\u043c \u0430\u043d\u0442\u0438\u0433\u0438\u0442\u043b\u0435\u0440\u043e\u0432\u0441\u043a\u043e\u0439 \u043a\u043e\u0430\u043b\u0438\u0446\u0438\u0438"
+        },
+        {
+          "fsq_id": "532adaee498e35a47d99cd74",
+          "categories": [
+            {
+              "id": 16020,
+              "name": "Historic and Protected Site",
+              "short_name": "Historic and Protected Site",
+              "plural_name": "Historic and Protected Sites",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0414\u0438\u043e\u0440\u0430\u043c\u0430 \u0411\u043b\u043e\u043a\u0430\u0434\u0430 \u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0430"
+        },
+        {
+          "fsq_id": "5186122c498ee03b42395508",
+          "categories": [
+            {
+              "id": 16019,
+              "name": "Hiking Trail",
+              "short_name": "Trail",
+              "plural_name": "Hiking Trails",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0410\u043b\u043b\u0435\u044f \u043c\u043e\u043b\u043e\u0434\u043e\u0436\u0435\u043d\u043e\u0432"
+        },
+        {
+          "fsq_id": "4ccbe29e7c2ff04d435e957e",
+          "categories": [
+            {
+              "id": 10016,
+              "name": "Exhibit",
+              "short_name": "Exhibit",
+              "plural_name": "Exhibits",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0412\u044b\u0441\u0442\u0430\u0432\u043a\u0430 \u0432\u043e\u0435\u043d\u043d\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438 \u0432\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u0438\u044f \u043f\u043e\u0434 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u043c \u043d\u0435\u0431\u043e\u043c"
+        },
+        {
+          "fsq_id": "4fddba8ae4b01549c0a6d2af",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0443 \u043d\u0430\u0440\u043e\u0434\u043e\u0432 \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u043e\u0433\u043e \u0421\u043e\u044e\u0437\u0430"
+        },
+        {
+          "fsq_id": "51b34f30498e34b6999f6c59",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a\u0430\u043c \u0437\u0435\u043c\u043b\u0438 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439"
+        },
+        {
+          "fsq_id": "4ccbf0db97d0224b488a5cb8",
+          "categories": [
+            {
+              "id": 16047,
+              "name": "Sculpture Garden",
+              "short_name": "Sculpture",
+              "plural_name": "Sculpture Gardens",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sculpture_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0426\u0432\u0435\u0442\u043e\u0447\u043d\u044b\u0435 \u0447\u0430\u0441\u044b"
+        },
+        {
+          "fsq_id": "516d0ff5e4b0221098c4b0c7",
+          "categories": [
+            {
+              "id": 16019,
+              "name": "Hiking Trail",
+              "short_name": "Trail",
+              "plural_name": "Hiking Trails",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0410\u043b\u043b\u0435\u044f \u043c\u043e\u0440\u044f\u043a\u043e\u0432"
+        },
+        {
+          "fsq_id": "5904a0e775cb8c33bd9d5bf3",
+          "categories": [
+            {
+              "id": 13053,
+              "name": "Food Stand",
+              "short_name": "Food Stand",
+              "plural_name": "Food Stands",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/movingtarget_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Chicken Run"
+        },
+        {
+          "fsq_id": "5332fdf211d214b059649ff1",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0414\u0443\u0445 \u042d\u043b\u044c\u0431\u044b"
+        },
+        {
+          "fsq_id": "4f8d8d70e4b0375890c1fb89",
+          "categories": [
+            {
+              "id": 10048,
+              "name": "Roller Rink",
+              "short_name": "Roller Rink",
+              "plural_name": "Roller Rinks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0420\u043e\u043b\u043b\u0435\u0440\u0448\u043a\u043e\u043b\u0430 rekil.ru"
+        },
+        {
+          "fsq_id": "4e1e88d2d22d7c148ce2ee37",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041c\u043e\u043d\u0443\u043c\u0435\u043d\u0442 \u041f\u043e\u0431\u0435\u0434\u044b"
+        },
+        {
+          "fsq_id": "53b7f968498ecdc1648784ca",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0438\u0441\u043f\u0430\u043d\u0446\u0430\u043c \u043f\u0430\u0432\u0448\u0438\u043c \u0432 \u0432\u0435\u043b\u0438\u043a\u043e\u0439 \u043e\u0442\u0435\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u0432\u043e\u0439\u043d\u0435"
+        },
+        {
+          "fsq_id": "52385da211d2799b127d4cfb",
+          "categories": [
+            {
+              "id": 16019,
+              "name": "Hiking Trail",
+              "short_name": "Trail",
+              "plural_name": "Hiking Trails",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0410\u043b\u043b\u0435\u044f \u043f\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u043d\u0438\u043a\u043e\u0432"
+        }
+      ]
+    },
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "fsq_id": "4ee6374a9a52c1dadbece9f6",
+    "categories": [
+      {
+        "id": 16032,
+        "name": "Park",
+        "short_name": "Park",
+        "plural_name": "Parks",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "VeryLikelyOpen",
+    "distance": 836,
+    "geocodes": {
+      "main": {
+        "latitude": 55.750932,
+        "longitude": 37.628732
+      }
+    },
+    "link": "/v3/places/4ee6374a9a52c1dadbece9f6",
+    "location": {
+      "country": "RU",
+      "cross_street": "\u0443\u043b. \u0412\u0430\u0440\u0432\u0430\u0440\u043a\u0430",
+      "formatted_address": "\u0443\u043b. \u0412\u0430\u0440\u0432\u0430\u0440\u043a\u0430, 109012, \u041c\u043e\u0441\u043a\u0432\u0430",
+      "locality": "\u041c\u043e\u0441\u043a\u0432\u0430",
+      "postcode": "109012",
+      "region": "\u041c\u043e\u0441\u043a\u0432\u0430"
+    },
+    "name": "Zaryadye Park (\u041f\u0430\u0440\u043a \u00ab\u0417\u0430\u0440\u044f\u0434\u044c\u0435\u00bb)",
+    "related_places": {
+      "children": [
+        {
+          "fsq_id": "59b426c32f97ec60baf78956",
+          "categories": [
+            {
+              "id": 10004,
+              "name": "Art Gallery",
+              "short_name": "Art Gallery",
+              "plural_name": "Art Galleries",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041c\u0435\u0434\u0438\u0430\u0446\u0435\u043d\u0442\u0440"
+        },
+        {
+          "fsq_id": "59c22843ad910e2a3e665a5d",
+          "categories": [
+            {
+              "id": 16000,
+              "name": "Landmarks and Outdoors",
+              "short_name": "Landmarks and Outdoors",
+              "plural_name": "Landmarks and Outdoors",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041b\u0443\u0433"
+        },
+        {
+          "fsq_id": "59b6a705f96b2c7bd737ab9a",
+          "categories": [
+            {
+              "id": 16017,
+              "name": "Garden",
+              "short_name": "Garden",
+              "plural_name": "Gardens",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0421\u0442\u0435\u043a\u043b\u044f\u043d\u043d\u0430\u044f \u043a\u043e\u0440\u0430"
+        },
+        {
+          "fsq_id": "59b661c1a6fe4d32cd5d0469",
+          "categories": [
+            {
+              "id": 16006,
+              "name": "Bridge",
+              "short_name": "Bridge",
+              "plural_name": "Bridges",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/bridge_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0430\u0440\u044f\u0449\u0438\u0439 \u043c\u043e\u0441\u0442"
+        },
+        {
+          "fsq_id": "59b678cea6fe4d32cd8c01dc",
+          "categories": [
+            {
+              "id": 10001,
+              "name": "Amusement Park",
+              "short_name": "Amusement Park",
+              "plural_name": "Amusement Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13034,
+              "name": "Caf\u00e9",
+              "short_name": "Caf\u00e9",
+              "plural_name": "Caf\u00e9s",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0417\u0430\u0440\u044f\u0434\u044c\u0435"
+        },
+        {
+          "fsq_id": "5d1f3659c1959800235bd1ce",
+          "categories": [
+            {
+              "id": 16037,
+              "name": "Playground",
+              "short_name": "Playground",
+              "plural_name": "Playgrounds",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0418\u0433\u0440\u043e\u0432\u0430\u044f \u041f\u043b\u043e\u0449\u0430\u0434\u043a\u0430"
+        },
+        {
+          "fsq_id": "5cea9b7867a9fe002c46b1ca",
+          "categories": [
+            {
+              "id": 16023,
+              "name": "Lake",
+              "short_name": "Lake",
+              "plural_name": "Lakes",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0440\u0443\u0434"
+        },
+        {
+          "fsq_id": "59c228e0bcbf7a7cb932b248",
+          "categories": [
+            {
+              "id": 16015,
+              "name": "Forest",
+              "short_name": "Forest",
+              "plural_name": "Forests",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0425\u0432\u043e\u0439\u043d\u044b\u0439 \u043b\u0435\u0441"
+        },
+        {
+          "fsq_id": "59c22924018cbb0e06a3b381",
+          "categories": [
+            {
+              "id": 16032,
+              "name": "Park",
+              "short_name": "Park",
+              "plural_name": "Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0421\u0442\u0435\u043f\u0438"
+        },
+        {
+          "fsq_id": "5362204c498ef2cd20eb5c44",
+          "categories": [
+            {
+              "id": 19028,
+              "name": "Tourist Information and Service",
+              "short_name": "Tourist Information",
+              "plural_name": "Tourist Information and Services",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/touristinformation_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041a\u0443\u043f\u043e\u043b"
+        },
+        {
+          "fsq_id": "59c2277b0457b71b6308e821",
+          "categories": [
+            {
+              "id": 16015,
+              "name": "Forest",
+              "short_name": "Forest",
+              "plural_name": "Forests",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0411\u0435\u0440\u0435\u0437\u043e\u0432\u0430\u044f \u0440\u043e\u0449\u0430"
+        },
+        {
+          "fsq_id": "59c2249aa6fe4d16705f2c94",
+          "categories": [
+            {
+              "id": 10037,
+              "name": "Concert Hall",
+              "short_name": "Concert Hall",
+              "plural_name": "Concert Halls",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0424\u0438\u043b\u0430\u0440\u043c\u043e\u043d\u0438\u044f"
+        },
+        {
+          "fsq_id": "59b6ced83149b94930a14ce6",
+          "categories": [
+            {
+              "id": 16053,
+              "name": "Waterfront",
+              "short_name": "Waterfront",
+              "plural_name": "Waterfronts",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/river_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041d\u0438\u0436\u043d\u044f\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f"
+        },
+        {
+          "fsq_id": "59c2295a6f0aa275f048381c",
+          "categories": [
+            {
+              "id": 16015,
+              "name": "Forest",
+              "short_name": "Forest",
+              "plural_name": "Forests",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0440\u0438\u0431\u0440\u0435\u0436\u043d\u044b\u0439 \u043b\u0435\u0441"
+        },
+        {
+          "fsq_id": "4f3e8fa7e4b0b8bcf2d51b66",
+          "categories": [
+            {
+              "id": 10030,
+              "name": "History Museum",
+              "short_name": "History Museum",
+              "plural_name": "History Museums",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_history_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0430\u043b\u0430\u0442\u044b \u0431\u043e\u044f\u0440 \u0420\u043e\u043c\u0430\u043d\u043e\u0432\u044b\u0445"
+        },
+        {
+          "fsq_id": "59c227e6d1a4027abd4da823",
+          "categories": [
+            {
+              "id": 16032,
+              "name": "Park",
+              "short_name": "Park",
+              "plural_name": "Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0435 \u043b\u0430\u043d\u0434\u0448\u0430\u0444\u0442\u044b"
+        }
+      ]
+    },
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "fsq_id": "4c066e1f91d776b022d1f8f9",
+    "categories": [
+      {
+        "id": 19014,
+        "name": "Hotel",
+        "short_name": "Hotel",
+        "plural_name": "Hotels",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 947,
+    "geocodes": {
+      "main": {
+        "latitude": 55.760026,
+        "longitude": 37.621529
+      },
+      "roof": {
+        "latitude": 55.760026,
+        "longitude": 37.621529
+      }
+    },
+    "link": "/v3/places/4c066e1f91d776b022d1f8f9",
+    "location": {
+      "address": "\u041d\u0435\u0433\u043b\u0438\u043d\u043d\u0430\u044f \u0423\u043b., \u0434. 4",
+      "country": "RU",
+      "formatted_address": "\u041d\u0435\u0433\u043b\u0438\u043d\u043d\u0430\u044f \u0423\u043b., \u0434. 4, 109012, \u041c\u043e\u0441\u043a\u0432\u0430",
+      "locality": "\u041c\u043e\u0441\u043a\u0432\u0430",
+      "postcode": "109012",
+      "region": "\u041c\u043e\u0441\u043a\u0432\u0430"
+    },
+    "name": "Ararat Park Hyatt",
+    "related_places": {
+      "children": [
+        {
+          "fsq_id": "4d3d03e4d625224b215e96fa",
+          "categories": [
+            {
+              "id": 18021,
+              "name": "Gym and Studio",
+              "short_name": "Gym and Studio",
+              "plural_name": "Gym and Studios",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Quantum Fitness & Spa"
+        },
+        {
+          "fsq_id": "4f7bbd3ee4b07f26b729275f",
+          "categories": [
+            {
+              "id": 13139,
+              "name": "Eastern European Restaurant",
+              "short_name": "Eastern European",
+              "plural_name": "Eastern European Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "The Park Restaurant"
+        },
+        {
+          "fsq_id": "4dc18824b0fb1c18ee659b26",
+          "categories": [
+            {
+              "id": 13013,
+              "name": "Hotel Bar",
+              "short_name": "Hotel Bar",
+              "plural_name": "Hotel Bars",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Conservatory"
+        },
+        {
+          "fsq_id": "51ca6bdb498eb327ce8c7627",
+          "categories": [
+            {
+              "id": 11029,
+              "name": "Convention Center",
+              "short_name": "Convention Center",
+              "plural_name": "Convention Centers",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/conventioncenter_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0411\u0438\u0437\u043d\u0435\u0441-\u0446\u0435\u043d\u0442\u0440"
+        },
+        {
+          "fsq_id": "56f2df75498e349a05658204",
+          "categories": [
+            {
+              "id": 13071,
+              "name": "Armenian Restaurant",
+              "short_name": "Armenian",
+              "plural_name": "Armenian Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0410\u0440\u0430\u0440\u0430\u0442"
+        }
+      ]
+    },
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "fsq_id": "4bf7fa734a67c928e27624cf",
+    "categories": [
+      {
+        "id": 16032,
+        "name": "Park",
+        "short_name": "Park",
+        "plural_name": "Parks",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "VeryLikelyOpen",
+    "distance": 126,
+    "geocodes": {
+      "main": {
+        "latitude": 55.752707,
+        "longitude": 37.613733
+      }
+    },
+    "link": "/v3/places/4bf7fa734a67c928e27624cf",
+    "location": {
+      "country": "RU",
+      "cross_street": "",
+      "formatted_address": "119019, \u041c\u043e\u0441\u043a\u0432\u0430",
+      "locality": "\u041c\u043e\u0441\u043a\u0432\u0430",
+      "postcode": "119019",
+      "region": "\u041c\u043e\u0441\u043a\u0432\u0430"
+    },
+    "name": "Aleksandrovskiy Garden (\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0441\u0430\u0434)",
+    "related_places": {
+      "children": [
+        {
+          "fsq_id": "4daa768b43a1128196f9b914",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041c\u043e\u0433\u0438\u043b\u0430 \u041d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u0433\u043e \u0441\u043e\u043b\u0434\u0430\u0442\u0430"
+        },
+        {
+          "fsq_id": "51a23c96498e8482f8f9f633",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u043c\u0443\u0447\u0435\u043d\u0438\u043a\u0443 \u0415\u0440\u043c\u043e\u0433\u0435\u043d\u0443, \u041f\u0430\u0442\u0440\u0438\u0430\u0440\u0445\u0443 \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u043e\u043c\u0443 \u0438 \u0412\u0441\u0435\u044f \u0420\u0443\u0441\u0438"
+        },
+        {
+          "fsq_id": "4dd91aab7d8b32266417d8c7",
+          "categories": [
+            {
+              "id": 16000,
+              "name": "Landmarks and Outdoors",
+              "short_name": "Landmarks and Outdoors",
+              "plural_name": "Landmarks and Outdoors",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0438\u0439 \u0433\u0440\u043e\u0442"
+        },
+        {
+          "fsq_id": "518b89bf498e2c884eb70e4f",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0410\u043b\u043b\u0435\u044f \u0433\u043e\u0440\u043e\u0434\u043e\u0432-\u0433\u0435\u0440\u043e\u0435\u0432 \u0438 \u0433\u043e\u0440\u043e\u0434\u043e\u0432 \u0432\u043e\u0438\u043d\u0441\u043a\u043e\u0439 \u0441\u043b\u0430\u0432\u044b"
+        },
+        {
+          "fsq_id": "4f9d464de4b060916971f184",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0420\u043e\u043c\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u043e\u0431\u0435\u043b\u0438\u0441\u043a"
+        },
+        {
+          "fsq_id": "546cd48d498e07a89f35e262",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0443 I"
+        },
+        {
+          "fsq_id": "4ca703b0f47ea14391456621",
+          "categories": [
+            {
+              "id": 16025,
+              "name": "Memorial Site",
+              "short_name": "Memorial Site",
+              "plural_name": "Memorial Sites",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0412\u0435\u0447\u043d\u044b\u0439 \u043e\u0433\u043e\u043d\u044c / Eternal flame"
+        },
+        {
+          "fsq_id": "4fe82c7ae4b0c7d6bbdf7386",
+          "categories": [
+            {
+              "id": 10000,
+              "name": "Arts and Entertainment",
+              "short_name": "Arts & Entertainment",
+              "plural_name": "Arts and Entertainment",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041a\u0430\u0441\u0441\u044b \u043c\u0443\u0437\u0435\u0435\u0432 \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u041a\u0440\u0435\u043c\u043b\u044f"
+        }
+      ]
+    },
+    "timezone": "Europe/Moscow"
+  },
+  {
+    "fsq_id": "4bb41c28f187a593f1e913f8",
+    "categories": [
+      {
+        "id": 16032,
+        "name": "Park",
+        "short_name": "Park",
+        "plural_name": "Parks",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "VeryLikelyOpen",
+    "distance": 1951,
+    "geocodes": {
+      "main": {
+        "latitude": 55.763827,
+        "longitude": 37.592141
+      }
+    },
+    "link": "/v3/places/4bb41c28f187a593f1e913f8",
+    "location": {
+      "country": "RU",
+      "cross_street": "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u041f\u0430\u0442\u0440\u0438\u0430\u0440\u0448\u0438\u0439 \u043f\u0435\u0440.",
+      "formatted_address": "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u041f\u0430\u0442\u0440\u0438\u0430\u0440\u0448\u0438\u0439 \u043f\u0435\u0440., \u041c\u043e\u0441\u043a\u0432\u0430",
+      "locality": "\u041c\u043e\u0441\u043a\u0432\u0430",
+      "region": "\u041c\u043e\u0441\u043a\u0432\u0430"
+    },
+    "name": "Patriarshiye Ponds (\u041f\u0430\u0442\u0440\u0438\u0430\u0440\u0448\u0438\u0435 \u043f\u0440\u0443\u0434\u044b)",
+    "related_places": {
+      "children": [
+        {
+          "fsq_id": "576daeb1498e68bc8c3806a6",
+          "categories": [
+            {
+              "id": 16020,
+              "name": "Historic and Protected Site",
+              "short_name": "Historic and Protected Site",
+              "plural_name": "Historic and Protected Sites",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0441\u043a\u0430\u043c\u0435\u0439\u043a\u0430 \u0411\u0435\u0440\u043b\u0438\u043e\u0437\u0430"
+        },
+        {
+          "fsq_id": "4e9013917ee60278a5b212af",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u041f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u0418\u0432\u0430\u043d\u0443 \u041a\u0440\u044b\u043b\u043e\u0432\u0443"
+        },
+        {
+          "fsq_id": "4dee3d29d164f9a5c68b4935",
+          "categories": [
+            {
+              "id": 16037,
+              "name": "Playground",
+              "short_name": "Playground",
+              "plural_name": "Playgrounds",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "\u0414\u0435\u0442\u0441\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430"
+        }
+      ]
+    },
+    "timezone": "Europe/Moscow"
+  }
+]
